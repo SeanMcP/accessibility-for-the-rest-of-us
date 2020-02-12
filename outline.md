@@ -1,0 +1,42 @@
+# Outline
+
+- Overview
+   - Learning objective: Understand the important of accessibility and learn some practical steps for creating more accessible applications
+- A11y 101
+   - Definitions
+   - Individuals with disabilities
+   - Categories of disabilities
+- Reasons to care
+   - Moral
+   - Legal
+   - Business
+- WCAG: Web content accessibility guidelines
+   - Definitions
+   - History (versions)
+   - Rules with examples
+   - Levels of Success
+   - POUR
+- POUR
+   - Perceivable
+   - Operable
+   - Understandable
+   - Robust
+- Common tasks
+   - Using semantic elements
+   - Maintaining page structure
+   - Colors and sizes
+   - Managing focus
+   - `alt` tags on images
+- Auditing
+   - Automated
+   - Manual
+- Steps:
+   - Advocate for the accessibility of your product
+   - Prioritize accessibility early and often
+   - No new accessibility errors
+   - Work (small) accessibility improvements into every sprint
+   - Audit early and often
+   - Build accessibility checks into your CI/CD process
+- Summary
+   - Restate learning objective
+   - Closing remarks
