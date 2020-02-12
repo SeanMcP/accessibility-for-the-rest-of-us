@@ -1,7 +1,9 @@
 # Outline
 
+The objective of this talk is to understand accessibility, its importance, and learn some practical steps for creating more accessible applications. We'll get an overview of accessibility, and look at definititions and broad categories of disabilities. Then we'll dive into W3's accessibility standards, and how they help us think about accessible applications. We'll wrap up with some common accessibility tasks, useful tools, and attainable steps to help us create acessible products.
+
 - Overview
-   - Learning objective: Understand the important of accessibility and learn some practical steps for creating more accessible applications
+   - Learning objective: Understand accessibility, its importance, and learn some practical steps for creating more accessible applications
 - A11y 101
    - Definitions
    - Individuals with disabilities
